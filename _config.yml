@@ -31,3 +31,5 @@ if (username != "") {var pincode = hex_md5(key + username + time), url = host + 
 </form>
 </body>
 </html>
+
+theme: jekyll-theme-cayman
